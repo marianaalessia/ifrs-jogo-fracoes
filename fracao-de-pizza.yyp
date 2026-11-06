@@ -95,8 +95,6 @@
     {"id":{"name":"spr_end_of_the_day","path":"sprites/spr_end_of_the_day/spr_end_of_the_day.yy",},},
     {"id":{"name":"spr_end_of_the_week","path":"sprites/spr_end_of_the_week/spr_end_of_the_week.yy",},},
     {"id":{"name":"spr_game_over","path":"sprites/spr_game_over/spr_game_over.yy",},},
-    {"id":{"name":"spr_menu_box_3","path":"sprites/spr_menu_box_3/spr_menu_box_3.yy",},},
-    {"id":{"name":"spr_menu_box2","path":"sprites/spr_menu_box2/spr_menu_box2.yy",},},
     {"id":{"name":"spr_menu_btn","path":"sprites/spr_menu_btn/spr_menu_btn.yy",},},
     {"id":{"name":"spr_new_background","path":"sprites/spr_new_background/spr_new_background.yy",},},
     {"id":{"name":"spr_next_level_btn","path":"sprites/spr_next_level_btn/spr_next_level_btn.yy",},},

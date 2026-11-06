@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_inicio",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_inicio/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -9,9 +9,6 @@
     {"name":"inst_518DA522","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_7F3D1EEA","path":"rooms/rm_inicio/rm_inicio.yy",},
     {"name":"inst_3DD951D2","path":"rooms/rm_inicio/rm_inicio.yy",},
-    {"name":"inst_3E1E56D5","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_66CA643F","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_6BB2C6E2","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_AA5918D","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_5EBD49FC","path":"roomui/RoomUI/RoomUI.yy",},
   ],

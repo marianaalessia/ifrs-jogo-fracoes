@@ -13,22 +13,25 @@ draw_set_font(font_money);
 draw_set_halign(fa_right);
 draw_set_valign(fa_top);
 
-// Desenha o dinheiro independentemente da existência de obj_stages
-moneytext = "R$ " + string_format(money, 0, 2);
+// O dinheiro não pode aparecer na rm_inicio
+if (room != rm_inicio) {
 
-var draw_x = display_get_gui_width() - 15;
-var draw_y = 60;
+    moneytext = "R$ " + string_format(money, 0, 2);
 
-if (shake > 0) {
-    draw_x += random_range(-shake, shake);
-    draw_y += random_range(-shake, shake);
+    var draw_x = display_get_gui_width() - 15;
+    var draw_y = 60;
+
+    if (shake > 0) {
+        draw_x += random_range(-shake, shake);
+        draw_y += random_range(-shake, shake);
+    }
+
+    draw_text_outline_transformed(
+        draw_x - 10, draw_y + 5,
+        moneytext, c_white, c_maroon,
+        1, 1, scale, scale, 0
+    );
 }
-
-draw_text_outline_transformed(
-    draw_x - 10, draw_y + 5,
-    moneytext, c_white, c_maroon,
-    1, 1, scale, scale, 0
-);
 
 // Só desenha informações da fase se obj_stages existir
 if (instance_exists(obj_stages)) {
