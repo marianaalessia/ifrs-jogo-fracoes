@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_game_over",
+  "%Name":"snd_slice",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.2960091,
+  "duration":0.9729932,
   "exportDir":"",
-  "name":"snd_game_over",
+  "name":"snd_slice",
   "parent":{
     "name":"sounds",
     "path":"folders/sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_game_over.mp3",
+  "soundFile":"snd_slice.mp3",
   "volume":1.0,
 }

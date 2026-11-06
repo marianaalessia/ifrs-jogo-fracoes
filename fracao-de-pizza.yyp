@@ -84,7 +84,7 @@
     {"id":{"name":"sh_slice","path":"shaders/sh_slice/sh_slice.yy",},},
     {"id":{"name":"snd_bell","path":"sounds/snd_bell/snd_bell.yy",},},
     {"id":{"name":"snd_congratulations","path":"sounds/snd_congratulations/snd_congratulations.yy",},},
-    {"id":{"name":"snd_game_over","path":"sounds/snd_game_over/snd_game_over.yy",},},
+    {"id":{"name":"snd_slice","path":"sounds/snd_slice/snd_slice.yy",},},
     {"id":{"name":"snd_wrong","path":"sounds/snd_wrong/snd_wrong.yy",},},
     {"id":{"name":"spr_bkg1","path":"sprites/spr_bkg1/spr_bkg1.yy",},},
     {"id":{"name":"spr_bkg2","path":"sprites/spr_bkg2/spr_bkg2.yy",},},

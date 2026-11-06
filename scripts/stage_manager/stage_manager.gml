@@ -30,6 +30,8 @@ function next_stage() {
 
 	    // mostra a tela de fim da semana
 	    layer_set_visible("end_of_the_week_layer", true);
+		audio_play_sound(snd_congratulations, 1, false);
+		
 	    }
 		//reset_state()
 }
@@ -87,6 +89,7 @@ function handle_time_up(){
 
 function update_money_stats_menu() {
 		var _layer_panel = layer_get_flexpanel_node("in_game_layer");
+		audio_play_sound(snd_congratulations, 1, false);
 		
 		// Dinheiro do dia
 		var _money_panel = flexpanel_node_get_child(_layer_panel, "money_day")

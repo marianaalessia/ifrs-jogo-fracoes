@@ -16,5 +16,7 @@ if (slices[_slice_index].visible){
 	slices[_slice_index].visible = false;
 	slices[_slice_index].animated = true
 	
+	audio_play_sound(snd_slice, 1, false);
+	
 	var inst = instance_create_layer (x, y, "Animations", obj_pizza_slice, {slice_index : _slice_index});
 }
