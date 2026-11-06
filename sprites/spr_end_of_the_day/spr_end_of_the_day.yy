@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":371,
   "bbox_left":0,
-  "bbox_right":498,
+  "bbox_right":499,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"d344c7c0-a715-4cb4-bd2b-167b1b83641b","name":"d344c7c0-a715-4cb4-bd2b-167b1b83641b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e10485af-5292-4fad-bd90-7fa37ef8c285","name":"e10485af-5292-4fad-bd90-7fa37ef8c285","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":375,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fad34a9c-d3c8-436b-823d-cd86b0c2511a","blendMode":0,"displayName":"default","isLocked":false,"name":"fad34a9c-d3c8-436b-823d-cd86b0c2511a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"d5c5c431-ff94-4e4b-991d-c5638a59c99e","blendMode":0,"displayName":"default","isLocked":false,"name":"d5c5c431-ff94-4e4b-991d-c5638a59c99e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_end_of_the_day",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d344c7c0-a715-4cb4-bd2b-167b1b83641b","path":"sprites/spr_end_of_the_day/spr_end_of_the_day.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a78c73b8-8d2d-4b1e-b124-90d8f7d7b61e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e10485af-5292-4fad-bd90-7fa37ef8c285","path":"sprites/spr_end_of_the_day/spr_end_of_the_day.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a1854394-a280-4d15-8e1f-6667490185a3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

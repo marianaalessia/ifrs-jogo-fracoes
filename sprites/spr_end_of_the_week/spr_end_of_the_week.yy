@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_end_of_the_week",
   "bboxMode":0,
-  "bbox_bottom":371,
-  "bbox_left":1,
-  "bbox_right":497,
+  "bbox_bottom":374,
+  "bbox_left":0,
+  "bbox_right":499,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"22acacce-c189-4f24-b25f-3009f84beb6f","name":"22acacce-c189-4f24-b25f-3009f84beb6f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9cbd7a7f-fe58-4463-8ba3-0082bb332be8","name":"9cbd7a7f-fe58-4463-8ba3-0082bb332be8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":375,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"9c2523e5-54c1-4469-b87c-3894fbf68bb8","blendMode":0,"displayName":"default","isLocked":false,"name":"9c2523e5-54c1-4469-b87c-3894fbf68bb8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"910b2257-82e3-47aa-8f9d-0137d190c12a","blendMode":0,"displayName":"default","isLocked":false,"name":"910b2257-82e3-47aa-8f9d-0137d190c12a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_end_of_the_week",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"22acacce-c189-4f24-b25f-3009f84beb6f","path":"sprites/spr_end_of_the_week/spr_end_of_the_week.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"951328ea-c3b6-42b5-aeb5-d22456e1ed1f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9cbd7a7f-fe58-4463-8ba3-0082bb332be8","path":"sprites/spr_end_of_the_week/spr_end_of_the_week.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6aa376f1-c61f-480b-9475-4a2efb2fc881","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

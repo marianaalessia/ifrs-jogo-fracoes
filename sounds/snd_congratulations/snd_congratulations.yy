@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"service_bell",
+  "%Name":"snd_congratulations",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":8.904014,
+  "duration":1.9591837,
   "exportDir":"",
-  "name":"service_bell",
+  "name":"snd_congratulations",
   "parent":{
     "name":"sounds",
     "path":"folders/sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"service_bell.mp3",
+  "soundFile":"snd_congratulations.mp3",
   "volume":1.0,
 }
